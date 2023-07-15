@@ -6,10 +6,10 @@ This project is a personal website showcasing my portfolio and skills. It includ
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Features](#features)
-[Technologies Used](#technologies-used)
-[Contributing](#contributing)
-[License](#license)
-[Contact](#contact)
+[Installation]
+[Usage]
+[Features]
+[Technologies Used]
+[Contributing]
+[License]
+[Contact]
