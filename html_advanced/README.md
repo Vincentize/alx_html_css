@@ -21,7 +21,7 @@ This project is a personal website showcasing my portfolio and skills. It includ
 
 ## Usage
 
-- Visit the website at [https://example.com](https://example.com)
+- Visit the website at [https://livescore.com](https://livescore.com)
 - Explore the different sections and click on project links for more details.
 - Contact me using the provided contact form.
 
@@ -47,5 +47,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or questions, feel free to contact me at john@example.com.
+For any inquiries or questions, feel free to contact me at dimkpavincent@gmail.com.
 
