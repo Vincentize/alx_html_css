@@ -14,11 +14,14 @@ main {
 article {
     flex:2;
     overflow-y: auto;
+    background-color: aqua;
+    color:gold
 }
 
 aside {
     flex:1;
     overflow-y: auto;
+    background-color: blue;
 }
 
 
